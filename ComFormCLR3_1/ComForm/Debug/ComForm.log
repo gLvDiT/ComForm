@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(60,27): warning C4677: context: сигнатура члена, не являющегося частным, содержит частный тип сборки "msclr::interop::marshal_context"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\msclr\marshal.h(339): message : см. объявление "msclr::interop::marshal_context"
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(115,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(516,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(574,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(605,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(668,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(694,12): warning C4101: Bin_Encode_String: неиспользованная локальная переменная
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(693,8): warning C4101: i_num_int: неиспользованная локальная переменная
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(692,8): warning C4101: dec_int: неиспользованная локальная переменная
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\MyForm.h(905,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Threads.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ComForm.vcxproj -> C:\Users\gLvD\source\repos\ComFormCLR3_1\Debug\ComForm.exe

@@ -1,0 +1,2 @@
+Для работспособности программы необходимо установить Microsoft .NET Framework не ниже 4 версии.
+Microsoft .NET Framework 4 находится в установочной папке ATS_ComForm\Framework4Setup\dotNetFx40_Full_x86_x64.exe

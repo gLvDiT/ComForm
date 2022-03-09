@@ -1,0 +1,5 @@
+C:\Users\gLvD\source\repos\ComFormCLR3_1\Debug\ComForm.lnk
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\Debug\ComForm.vcxproj.AssemblyReference.cache
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\Debug\ComForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\Debug\ComForm.MyForm.resources
+C:\Users\gLvD\source\repos\ComFormCLR3_1\ComForm\Debug\ComForm.vcxproj.GenerateResource.cache
